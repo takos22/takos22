@@ -1,4 +1,4 @@
-### Hi there, I'm takos22, a Python dev
+# Hi there, I'm takos22, a Python dev
 
 ## Reach me:
 - Through email at [takos2210@gmail.com](mailto://takos2210@gmail.com)
