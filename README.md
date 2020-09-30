@@ -13,6 +13,11 @@
   
   [![Asynchronous CodinGame API wrapper in python Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=aiocodingame&theme=react)](https://github.com/takos22/aiocodingame)
 
+  - [Discord Bot for CodinGame API wrapper in python](https://github.com/takos22/codingame-bot)
+  
+  [![Discord Bot for CodinGame API wrapper in python Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=codingame-bot&theme=react)](https://github.com/takos22/codingame-bot)
+
+
 ## General stats:
 [![Takos' github stats](https://github-readme-stats.vercel.app/api?username=takos22&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/takos22?tab=repositories)
 
