@@ -1,4 +1,8 @@
-# Hi there, I'm takos22, a Python dev
+# Hi there, I'm takos22
+
+I mainly use python and I consider myself as an expert.
+I'm the developer of the [`codingame`](https://pypi.org/project/codingame/) and [`aiocodingame`](https://pypi.org/project/aiocodingame/) modules on PyPI.
+I made some discord bots, APIs, modules, websites.
 
 ## Reach me:
 - Through email at [takos2210@gmail.com](mailto://takos2210@gmail.com)
