@@ -6,7 +6,7 @@ I made some discord bots, APIs, modules, websites.
 
 ## Reach me:
 - Through email at [takos2210@gmail.com](mailto://takos2210@gmail.com)
-- Through discord at [takos#4853](https://discord.com/users/401346079733317634)
+- Through discord at [takos#0001](https://discord.com/users/401346079733317634)
 
 ## Current project:
   - [CodinGame API wrapper in python](https://github.com/takos22/codingame)
