@@ -9,6 +9,10 @@ I made some discord bots, APIs, modules, websites.
 - Through discord at [takos#0001](https://discord.com/users/401346079733317634)
 
 ## Current project:
+  - [Website for the Tech With Tim code jam](https://github.com/takos22/timathon-for-students)
+  
+  [![Website for the Tech With Tim code jam Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo= timathon-for-students&theme=react)](https://github.com/takos22/timathon-for-students)
+
   - [CodinGame API wrapper in python](https://github.com/takos22/codingame)
   
   [![CodinGame API wrapper in python Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=codingame&theme=react)](https://github.com/takos22/codingame)
