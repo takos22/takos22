@@ -11,7 +11,7 @@ I made some discord bots, APIs, modules, websites.
 ## Current project:
   - [Website for the Tech With Tim code jam](https://github.com/takos22/timathon-for-students)
   
-  [![Website for the Tech With Tim code jam Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo= timathon-for-students&theme=react)](https://github.com/takos22/timathon-for-students)
+  [![Website for the Tech With Tim code jam Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=timathon-for-students&theme=react)](https://github.com/takos22/timathon-for-students)
 
   - [CodinGame API wrapper in python](https://github.com/takos22/codingame)
   
