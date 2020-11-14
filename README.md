@@ -1,6 +1,6 @@
 # Hi there, I'm takos22
 
-I mainly use python and I consider myself as an expert.
+I mainly use python and I'm really good at it.
 I'm the developer of the [`codingame`](https://pypi.org/project/codingame/) 
 and [`aiocodingame`](https://pypi.org/project/aiocodingame/) modules on PyPI.
 I made some discord bots, APIs, modules, websites.
