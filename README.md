@@ -15,9 +15,6 @@ an API or even a website for you, contact me on discord at
 - Through discord at [takos#0001](https://discord.com/users/401346079733317634)
 
 ## Current project:
-  - [Website for the Tech With Tim code jam](https://github.com/takos22/timathon-for-students)
-  
-  [![Website for the Tech With Tim code jam Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=timathon-for-students&theme=react)](https://github.com/takos22/timathon-for-students)
 
   - [CodinGame API wrapper in python](https://github.com/takos22/codingame)
   
