@@ -12,7 +12,7 @@ an API or even a website for you, contact me on discord at
 
 ## Reach me:
 - Through email at [takos2210@gmail.com](mailto://takos2210@gmail.com)
-- Through discord at [takos#0001](https://discord.com/users/401346079733317634)
+- Through discord at [takos#9650](https://discord.com/users/401346079733317634)
 
 ## Current project:
 
