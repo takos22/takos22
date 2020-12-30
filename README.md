@@ -7,7 +7,7 @@ I made some discord bots, APIs, modules, websites.
 
 I'm going to start freelancing soon, if you want me to code a discord bot, 
 an API or even a website for you, contact me on discord at 
-[takos#0001](https://discord.com/users/401346079733317634)
+[takos#9650](https://discord.com/users/401346079733317634)
 
 
 ## Reach me:
