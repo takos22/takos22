@@ -7,12 +7,12 @@ I made some discord bots, APIs, modules, websites.
 
 I'm going to start freelancing soon, if you want me to code a discord bot, 
 an API or even a website for you, contact me on discord at 
-[takos#9650](https://discord.com/users/401346079733317634)
+[takos#6969](https://discord.com/users/401346079733317634)
 
 
 ## Reach me:
 - Through email at [takos2210@gmail.com](mailto://takos2210@gmail.com)
-- Through discord at [takos#9650](https://discord.com/users/401346079733317634)
+- Through discord at [takos#6969](https://discord.com/users/401346079733317634)
 
 ## Current project:
 
