@@ -5,7 +5,7 @@ I'm the developer of the [`codingame`](https://pypi.org/project/codingame/)
 and [`aiocodingame`](https://pypi.org/project/aiocodingame/) modules on PyPI.
 I made some discord bots, APIs, modules, websites.
 
-I'm freelancing on [fiverr](https://www.fiverr.com/takos22) and I'm currently offering REST APIs, discord bots and small games.  
+I'm [freelancing on fiverr](https://www.fiverr.com/takos22) and I'm currently offering REST APIs, discord bots and small games.  
 If you want me to do something for you, you can also contact me on discord at 
 [takos#0901](https://discord.com/users/401346079733317634)
 
