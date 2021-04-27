@@ -1,14 +1,15 @@
 # Hi there, I'm takos22
 
 I mainly use python and I'm really good at it.
-I'm the developer of the [`codingame`](https://pypi.org/project/codingame/) 
-and [`aiocodingame`](https://pypi.org/project/aiocodingame/) modules on PyPI.
+I'm the developer of the [`baguette`](https://pypi.org/project/baguette/) 
+and [`codingame`](https://pypi.org/project/codingame/) modules on PyPI.
 I made some discord bots, APIs, modules, websites.
 
+<!--
 I'm [freelancing on fiverr](https://www.fiverr.com/takos22) and I'm currently offering REST APIs, discord bots and small games.  
 If you want me to do something for you, you can also contact me on discord at 
 [takos#5505](https://discord.com/users/401346079733317634)
-
+-->
 
 ## Reach me:
 - Through email at [takos2210@gmail.com](mailto://takos2210@gmail.com)
@@ -16,13 +17,17 @@ If you want me to do something for you, you can also contact me on discord at
 
 ## Current projects:
 
+  - [Baguette ASGI web framework](https://github.com/takos22/baguette)
+  
+  [![Baguette ASGI web framework Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=baguette&theme=react)](https://github.com/takos22/baguette)
+ 
   - [A* pathfinding algorithm in python](https://github.com/takos22/A-star)
   
   [![A* pathfinding algorithm Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=A-star&theme=react)](https://github.com/takos22/A-star)
 
   - [Maze generation algorithm in python](https://github.com/takos22/Maze-generator)
   
-  [![A* pathfinding algorithm Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=Maze-generator&theme=react)](https://github.com/takos22/Maze-generator)
+  [![Maze generation algorithm Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=Maze-generator&theme=react)](https://github.com/takos22/Maze-generator)
 
   - [CodinGame API wrapper in python](https://github.com/takos22/codingame)
   
