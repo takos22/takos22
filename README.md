@@ -1,8 +1,8 @@
 # Hi there, I'm takos22
 
 I mainly use python and I'm really good at it.
-I'm the developer of the [`baguette`](https://pypi.org/project/baguette/) 
-and [`codingame`](https://pypi.org/project/codingame/) modules on PyPI.
+I'm the developer of the [`baguette`](https://pypi.org/project/baguette/) async web framework
+and [`codingame`](https://pypi.org/project/codingame/) module.
 I made some discord bots, APIs, modules, websites.
 
 <!--
