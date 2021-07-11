@@ -21,9 +21,9 @@ If you want me to do something for you, you can also contact me on discord at
   
   [![Baguette ASGI web framework Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=baguette&theme=react)](https://github.com/takos22/baguette)
 
-  - [Webhook server](https://github.com/takos22/webhooks)
+  - [CodinGame API wrapper](https://github.com/takos22/codingame)
   
-  [![Webhook server Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=webhooks&theme=react)](https://github.com/takos22/webhooks)
+  [![CodinGame API wrapper Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=codingame&theme=react)](https://github.com/takos22/codingame)
  
 ## General stats:
 [![Takos' github stats](https://github-readme-stats.vercel.app/api?username=takos22&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/takos22?tab=repositories)
