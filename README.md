@@ -19,17 +19,17 @@ If you want me to do something for you, you can also contact me on discord at
 
   - [Baguette ASGI web framework](https://github.com/takos22/baguette)
   
-  [![Baguette ASGI web framework Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=baguette&theme=react)](https://github.com/takos22/baguette)
+  [![Baguette ASGI web framework Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=baguette&theme=react&hide_border=true)](https://github.com/takos22/baguette)
 
   - [CodinGame API wrapper](https://github.com/takos22/codingame)
   
-  [![CodinGame API wrapper Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=codingame&theme=react)](https://github.com/takos22/codingame)
+  [![CodinGame API wrapper Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=codingame&theme=react&hide_border=true)](https://github.com/takos22/codingame)
  
 ## General stats:
-[![Takos' github stats](https://github-readme-stats.vercel.app/api?username=takos22&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/takos22?tab=repositories)
+[![Takos' github stats](https://github-readme-stats.vercel.app/api?username=takos22&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true)](https://github.com/takos22?tab=repositories)
 
 ## My main languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takos22&layout=compact&langs_count=3&theme=react)](https://github.com/takos22?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takos22&layout=compact&langs_count=3&theme=react&hide_border=true)](https://github.com/takos22?tab=repositories)
 
 <!--
 **takos22/takos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
