@@ -34,3 +34,5 @@ If you want me to do something for you, you can also contact me on discord at
 <!--
 **takos22/takos22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=59511469)
