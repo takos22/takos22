@@ -24,6 +24,8 @@ If you want me to do something for you, you can also contact me on discord at
   - [CodinGame API wrapper](https://github.com/takos22/codingame)
   
   [![CodinGame API wrapper Card](https://github-readme-stats.vercel.app/api/pin/?username=takos22&repo=codingame&theme=react&hide_border=true)](https://github.com/takos22/codingame)
+  
+  - Private projects
  
 ## General stats:
 [![Takos' github stats](https://github-readme-stats.vercel.app/api?username=takos22&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true)](https://github.com/takos22?tab=repositories)
