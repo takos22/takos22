@@ -1,15 +1,10 @@
 # Hi there, I'm takos22
 
-I mainly use python and I think I'm pretty proficient at it.
+I'm an engineering student and I use mostly python and some other languages (JS, C, Java, ...).
 I'm the developer of the [`baguette`](https://pypi.org/project/baguette/) async web framework
-and [`codingame`](https://pypi.org/project/codingame/) module.
+and [`codingame`](https://pypi.org/project/codingame/) python module.
 I made some discord bots, APIs, modules, websites.
 
-<!--
-I'm [freelancing on fiverr](https://www.fiverr.com/takos22) and I'm currently offering REST APIs, discord bots and small games.  
-If you want me to do something for you, you can also contact me on discord at 
-[takos#8880](https://discord.com/users/401346079733317634)
--->
 
 ## Reach me:
 - Through email at [takos2210@gmail.com](mailto://takos2210@gmail.com)
